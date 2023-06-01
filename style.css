@@ -1,0 +1,22 @@
+body {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(241, 125, 245);
+    color:rgb(155, 123, 224);
+  }
+  
+  .heading{
+      width: 80%;
+      font-size:25px;
+  }
+  
+  .name_of_objects,#result_object_name,#result_object_accuracy{
+      color:aquamarine;
+  }
+  
+  #camera{
+      width:350px;
+      height: 350px;
+      border:2px dashed coral;
+  }
+  
